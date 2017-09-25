@@ -7,7 +7,7 @@
 **Thoughts:** Both challenges were related to operations with arrays. The 2nd one was not as easy as it seems to be.  
 
 **Link to work:** 
-1. [Print each array element in reverse order]()
+1. [Print each array element in the reverse order](https://learntocodediary.wordpress.com/portfolio/hackerrank-print-each-array-element-in-reverse-order/)
 2. [Calculate the hourglass sum for every hourglass in array]()
 
 
