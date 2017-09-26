@@ -10,4 +10,10 @@
 1. [Print each array element in the reverse order](https://learningtocodediary.wordpress.com/2017/09/25/hackerrank-print-each-array-element-in-reverse-order/)
 2. [Calculate the hourglass sum for every hourglass in array](https://learningtocodediary.wordpress.com/2017/09/26/hackerrank-calculate-the-hourglass-sum-for-every-hourglass-in-array/)
 
+### Day 2: September 25, 2017 
+
+**Today's Progress**: Attended Women Who Code ES6 Workshop and solved 1 Hackerrank challenge (JavaScript).  
+
+**Link to work:** 
+1. [Using readLine() to read a stream from STDIN](https://learningtocodediary.wordpress.com/2017/09/26/hackerrank-using-readline-to-read-a-stream-from-stdin/)
 
