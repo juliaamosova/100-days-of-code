@@ -17,3 +17,11 @@
 **Link to work:** 
 1. [Using readLine() to read a stream from STDIN](https://learningtocodediary.wordpress.com/2017/09/26/hackerrank-using-readline-to-read-a-stream-from-stdin/)
 
+
+### Day 3: September 26, 2017 
+
+**Today's Progress**: Solved 2 Hackerrank challenge (JavaScript).  
+
+**Link to work:** 
+1. [Hackerrank: Arithmetic operators](https://learningtocodediary.wordpress.com/2017/09/26/hackerrank-arithmetic-operators/)
+2. [Hackerrank: Array Left Rotation](https://learningtocodediary.wordpress.com/2017/09/27/hackerrank-array-left-rotation/)
