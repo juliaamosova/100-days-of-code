@@ -35,3 +35,11 @@
 1. [Hackerrank: Conditional Statements (If else)](https://learningtocodelog.wordpress.com/2017/09/28/hackerrank-conditional-statements-if-else/)
 2. [Hackerrank: Simple Array Sum](https://learningtocodelog.wordpress.com/2017/09/28/hackerrank-simple-array-sum/)
 
+### Day 5: September 28, 2017 
+
+**Today's Progress**: Solved 1 Hackerrank challenge (JavaScript).  
+
+**Link to work:** 
+1. [Hackerrank: Class vs. Instance](https://learningtocodelog.wordpress.com/2017/09/29/hackerrank-class-vs-instance/)
+
+
